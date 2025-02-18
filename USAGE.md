@@ -1,5 +1,6 @@
 ```
 brew install pipx
+pipx install virtualenv
 pipx ensurepath
 
 virtualenv production
